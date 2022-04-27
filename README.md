@@ -11,3 +11,5 @@ Morse Key working over Bluetooth that could be used with a phone.
 ### Morse-it Setup (morse code trainer)
 
 ### Gboard Keyboard (alternative phone keyboard)
+
+73 SP9NS
