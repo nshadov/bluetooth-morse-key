@@ -6,4 +6,8 @@ Morse Key working over Bluetooth that could be used with a phone.
 * iPhone
 * PC
 
-## Morse-it Setup
+## Example Apps Setup
+
+### Morse-it Setup (morse code trainer)
+
+### Gboard Keyboard (alternative phone keyboard)
